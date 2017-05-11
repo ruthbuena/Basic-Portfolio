@@ -1,0 +1,61 @@
+/*Styling for 3 HTML files*/
+
+body {
+	font-size: 24px;
+	box-sizing: border-box;
+	text-align: center;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	background-image:url(https://assets.awwwards.com/awards/images/2015/04/pattern.jpg);
+}
+
+header {
+	background-color: : #4aaaa5;
+	font-color: #ffffff;
+	padding: 20px;
+	margin-bottom: 20px;
+	line-height: 36px;
+	width: 20%;
+}
+
+h1 {
+	background-color: : #4aaaa5;
+}
+
+.Menu {
+	float: left;
+}
+
+.container {
+	background-color: white;
+	font-color: #4aaaa5;
+}
+
+#bio {
+	background-color: white;
+	overflow: visible;
+	width: 200px;
+	height: 150px;
+}
+
+footer {
+	background-color: #666666;
+	float: clear;
+}
+
+p {
+	font: #777777;
+}
+
+#portfolio {
+	float: right
+}
+
+.Social {
+	overflow: visible;
+	width: 100px;
+	height: 100px;
+	float: right;
+}
+
+
+
